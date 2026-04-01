@@ -1,0 +1,4 @@
+TO start the project first run the files using: pip install -r Requirements.txt
+Then to run the code give location for the resume u have and then the job url link. 
+e.g..
+  python main.py --resume "data\resumes\Your-Resume.pdf" --url "https://www.linkedin.com/jobs/view/4387910538/?alternateChannel=search&eBP=CwEAAAGdKUUEnwF7HA7TM2_5OQpiLzA6CtZdoH5HGCV8BiqBtFnkM4f200V5zHP454CfuIKXzw-1iibu3kPJ6NFk4IktkGW-7pODvqo5c3Uqhtd6FqUipWuX4S_PLZTy8gCzVqheQC6y1t4eyavQsovQ1auf9vmNV1IWMNacF9AZ_7TjT9giz38iqVpvRNTcWNLuYLPyBrJEEtPkrCC1M1XsmPIokTZuhZONs-bv71OmobFkc2YyXKVa9eKQ3lAlgiGTX2Hhx8qYYap2i8tevIFDxNiTXKzwyTAmRCumecIebr71tTxP4_TePsuRM-MlQQWt57RjorCkNmx1IS2je9yzTjekxCNjLfHbS9nPVsLIiTv-HUtRrwWEFnsvFjwx1oO8Nc9ct03xchzTcio_Eg54hP6wbWxT93_2SExSOa_hqRk7VuPm6D8QzM41Tys7qMvkOwIDoJyukCXA4Bk0oMkPrD4iZd-kdydxj6oAFkefxnvLdFgi6mDtWO4hSV5vACT3DV1zPJqIOWdXPLFfeWWtxedxyJAB9pbg16QgMsiVu-qjL3jQ06QoZLDry8F7&refId=t6JUeGy0Kidhm9WWfhWOqw%3D%3D&trackingId=66ZBF6dtctDR5fYU7GTbTg%3D%3D"
