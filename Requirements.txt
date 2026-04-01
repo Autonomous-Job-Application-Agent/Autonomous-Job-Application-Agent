@@ -1,0 +1,16 @@
+langchain
+langchain-google-genai
+langchain-community
+langchain-text-splitters
+langchain-core
+google.genai
+pymupdf
+beautifulsoup4
+requests
+faiss-cpu
+sentence-transformers
+reportlab
+streamlit
+plotly
+pandas
+python-dotenv

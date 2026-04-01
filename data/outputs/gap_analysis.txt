@@ -1,0 +1,52 @@
+Here's an analysis of Subrat Kumar Behera's resume against the Graphic Designer Intern job requirements:
+
+---
+
+**1. Skills FROM THE RESUME that match the job requirements:**
+
+*   **AI/ML Specialization & Curiosity for AI-driven Creativity:**
+    *   "Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning" (Profile)
+    *   "Bachelor of Technology (B.Tech) – Computer Science & Engineering (AI & ML)" (Education)
+    *   "Machine Learning: Linear Regression, Supervised Learning, Model Training & Prediction" (Skills)
+    *   "Self-Driving Car Course – Fundamentals of autonomous systems, sensors, perception, and decision-making algorithms." (Certifications)
+    *   *This demonstrates a strong foundation and interest in AI/ML, aligning with the job's "curiosity for AI-driven creativity" and "Eager to explore AI-assisted design workflows," even if the specific AI tools differ.*
+*   **Collaboration/Teamwork:**
+    *   "Collaborated with cross-functional teams, strengthening communication and teamwork skills." (Experience)
+    *   "Collaborated with ML team to visualize route predictions and performance metrics." (Projects)
+    *   *Matches the job's requirement for "Collaborating with marketing and product teams on visual storytelling."*
+*   **Frontend Development / UI Integration:**
+    *   "web development" (Profile)
+    *   "HTML, CSS" (Skills)
+    *   "Web Development: Frontend Development, UI Integration" (Skills)
+    *   "Designed and developed a responsive frontend interface for an ML-based drone delivery system." (Projects)
+    *   "Integrated UI components with Linear Regression prediction outputs for delivery time estimation." (Projects)
+    *   *While not graphic design, this demonstrates experience with visual layout, user interface, and presentation, which are related to visual design principles.*
+*   **Data Visualization:**
+    *   "Microsoft Excel (Data Cleaning, Pivot Tables, Visualization)" (Skills)
+    *   "Improved clarity of prediction results through structured dashboards and data visualization." (Projects)
+    *   *Relevant to "visual storytelling" and presenting information clearly.*
+*   **Problem-solving:**
+    *   "Skilled in problem-solving" (Profile)
+    *   "Problem Solving" (Skills)
+    *   "demonstrating leadership, technical coordination, and problem-solving skills." (Achievements)
+    *   *A general transferable skill applicable to design challenges.*
+
+**2. Skills REQUIRED BY THE JOB that are MISSING from the resume:**
+
+*   **Core Graphic Design Software Proficiency:** No mention of Photoshop, Illustrator, Figma, or Canva.
+*   **Strong Foundation in Visual Design:** The resume lacks explicit mention or demonstration of graphic design principles (e.g., typography, color theory, layout for marketing).
+*   **Experience Designing Ad Creatives:** No experience in creating marketing materials or ad creatives.
+*   **Video Editing Experience:** This skill is not present in the resume.
+*   **Specific AI Creative Tools:** While AI/ML is present, there's no mention of experience with specific generative AI tools for design like ChatGPT + Canva, VEO3, Midjourney, or Runway.
+*   **Creative Instincts & Visual Clarity (in a graphic design context):** While UI/data visualization implies some visual consideration, "strong creative instincts" and "visual clarity" as applied to graphic design are not explicitly demonstrated.
+*   **Graduate Status:** The job specifies "an graduate," but the candidate's education timeline (Aug. 2023 - June 2027) indicates they are currently an undergraduate.
+
+**3. Estimated Match Score:** 15%
+
+The resume demonstrates a strong background in Computer Science, AI/ML, and web development, with some transferable skills like collaboration and data visualization. However, the core requirements of a Graphic Designer Intern role—proficiency in specific design software, a foundation in visual design principles, experience with ad creatives, and video editing—are largely absent. The candidate's AI/ML background aligns with the "AI-driven creativity" aspect, but the specific application (ML models vs. generative design tools) differs.
+
+**4. 3 Short Recommendations to improve the resume (for this specific job):**
+
+1.  **Reframe existing UI/Visualization experience:** In the "Projects" section, elaborate on the *visual design and user experience aspects* of the frontend interface and data visualizations (e.g., "focused on intuitive layout and aesthetic appeal," "designed dashboards for clear visual communication").
+2.  **Add a "Design Interest" section or bullet:** Create a small section or bullet point under "Skills" or "Profile" explicitly stating an interest in graphic design, visual storytelling, and a strong eagerness to learn and apply AI-driven creative tools (e.g., Midjourney, Canva AI), connecting it to their existing AI/ML foundation.
+3.  **Create and link a design portfolio:** Since direct graphic design experience is missing, create a small portfolio of personal design projects (e.g., mock ad creatives, social media graphics, simple logos) using tools like Canva or Figma, and add a link to this portfolio in the contact information or profile section.

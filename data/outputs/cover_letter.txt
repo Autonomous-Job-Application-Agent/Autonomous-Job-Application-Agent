@@ -1,0 +1,10 @@
+Dear propelld Hiring Team,
+
+I am writing to express my enthusiastic interest in the Graphic Designer Intern position at propelld. As a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning, I am particularly drawn to your emphasis on 'AI-driven creativity' and the opportunity to experiment with cutting-edge tools like Midjourney and Runway. My unique technical background, combined with a keen eye for visual communication, positions me to bring an innovative perspective to your marketing campaigns.
+
+My academic journey has equipped me with strong foundations in **Machine Learning** and **Frontend Development**, which I've applied in practical settings. For instance, in my ML-Based Drone Delivery System project, I designed and developed a responsive frontend interface, integrating UI components and collaborating with the ML team to visualize prediction outputs and performance metrics through structured dashboards. This experience honed my ability to translate complex data into clear, engaging visual narratives, a skill I believe is highly transferable to designing compelling ad creatives and visual storytelling for propelld. Furthermore, my experience collaborating with cross-functional teams during my industrial IT training has strengthened my teamwork and communication skills.
+
+I am eager to leverage my technical acumen and passion for visual design to contribute to propelld's innovative marketing efforts. I am a quick learner, highly adaptable, and excited by the prospect of applying AI tools to enhance design quality and consistency. Thank you for considering my application. I look forward to the opportunity to discuss how my skills and enthusiasm can benefit your team.
+
+Sincerely,
+Subrat Kumar Behera

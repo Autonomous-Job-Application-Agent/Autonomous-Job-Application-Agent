@@ -1,0 +1,11 @@
+Here are rewritten resume bullet points, strictly adhering to your rules and focusing on transferable skills for a Graphic Designer Intern role:
+
+*   Designed and developed a responsive frontend interface, emphasizing visual clarity and user experience for an ML-based system.
+*   Integrated UI components to visually present complex data outputs, ensuring clear communication of prediction results.
+*   Collaborated with a technical team to visualize complex data, including route predictions and performance metrics, for enhanced understanding.
+*   Improved the visual clarity of prediction results by designing structured dashboards and implementing effective data visualization techniques.
+*   Applied data visualization techniques using Microsoft Excel to present insights clearly and effectively.
+*   Utilized HTML and CSS for frontend development and UI integration, contributing to visual design and user interface consistency.
+*   Possess a specialization in Artificial Intelligence and Machine Learning, providing a foundational understanding for engaging with AI-assisted design workflows.
+*   Collaborated effectively with cross-functional teams, enhancing communication and teamwork skills relevant to design projects.
+*   Led project initiatives, demonstrating technical coordination and problem-solving skills applicable to maintaining design quality and consistency.
